@@ -8,8 +8,7 @@
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
-    "wordcloud-bg": "assets/wordcloud-bg.jpg",
-    "wordcloud-bg-solarized": "assets/wordcloud-bg-solarized.jpg"
+    "wordcloud-bg": "assets/wordcloud-bg.jpg"
   },
   "color_schemes": {
     "Light": {
