@@ -1,0 +1,54 @@
+audio {
+    width: 100%;
+    max-width: 400px;
+}
+
+body {
+    background-image: url("https://everyamerican.com/uploads/default/original/1X/fee16506d951b5deea0405e195ae7a708a642b66.webp");
+    background-attachment: fixed;
+}
+
+.d-header {
+    box-shadow: none;
+}
+
+.sidebar-wrapper {
+    background: #472d1317;
+}
+
+.sidebar-section-link-wrapper .sidebar-section-link.active,
+.sidebar-section-link-wrapper .sidebar-section-link:hover,
+.discourse-touch .sidebar-custom-sections a:active,
+.discourse-touch .sidebar-custom-sections a:hover,
+.btn-flat a:active,
+.btn-flat a:hover,
+.json-editor-btn-collapse a:active,
+.json-editor-btn-collapse a:hover {
+    color: #fff;
+    background: #b0b0cc !important; /* Light Mode */
+}
+
+.btn-flat.sidebar-more-section-links-details-summary:focus-within,
+.sidebar-more-section-links-details-summary.json-editor-btn-collapse:focus-within,
+.btn-flat.sidebar-more-section-links-details-summary:active,
+.sidebar-more-section-links-details-summary.json-editor-btn-collapse:active,
+.btn-flat.sidebar-more-section-links-details-summary:hover,
+.sidebar-more-section-links-details-summary.json-editor-btn-collapse:hover,
+.sidebar-section-header-wrapper.sidebar-row:hover {
+    background: #b0b0cc !important /* Light Mode */
+}
+
+.sidebar-section-wrapper .sidebar-section-content {
+    padding-left: 2em;
+}
+
+body.has-sidebar-page #main-outlet-wrapper {
+    gap: 0;
+}
+
+#main-outlet {
+    background: #ffffff7a;  /* Light Mode */
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
