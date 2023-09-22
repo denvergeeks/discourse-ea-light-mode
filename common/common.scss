@@ -8,6 +8,10 @@ body {
     background-attachment: fixed;
 }
 
+body.static-login .login-welcome {
+  background-color: transparent;
+}
+
 .d-header {
     box-shadow: none;
     background: #eae9f1;
