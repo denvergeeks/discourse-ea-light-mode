@@ -55,6 +55,11 @@ body.has-sidebar-page #main-outlet-wrapper {
     gap: 0;
 }
 
+.list-controls {
+    background: var(--d-content-background);
+    padding-left: .5em;
+}
+
 /*
 .sidebar-section-wrapper .sidebar-section-content {
     padding-left: 2em;
