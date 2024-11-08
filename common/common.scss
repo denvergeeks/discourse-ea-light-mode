@@ -61,10 +61,11 @@ body.has-sidebar-page #main-outlet-wrapper {
     padding-left: .5em;
 }
 
-.container.list-container {
+.container.list-container,
+.container.posts,
+#topic-title {
     padding: 0 .5em .5em
 }
-    
 
 .sidebar-section-wrapper .sidebar-section-content {
     padding-left: 2em;
